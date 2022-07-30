@@ -3,7 +3,6 @@ Practical Machine Learning: Course project
 
 
 
-
 The goal of the project
 -----------------------
 
