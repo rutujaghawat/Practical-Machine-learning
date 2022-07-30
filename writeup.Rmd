@@ -92,6 +92,7 @@ nrow(crossval)
 ```
 
 
+
 ### Train a model
 
 I used the *random-forest* technique to generate a predictive model. In sum, 10 models were trained. I played around with the parameters passed to `trControl` and specified different models with bootstrapping (`method = "boot"`) and cross-validation (`method = "cv"`).
